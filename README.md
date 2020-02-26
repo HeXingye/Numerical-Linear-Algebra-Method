@@ -1,6 +1,8 @@
 # Numerical-Linear-Algebra-Method
 This Repository is my fortran code for numerical linear algebra
 
+# Summery of each part
+
 ## column norm and trace
 input: make
 output:
@@ -108,10 +110,13 @@ output is:
   0.920594752    
   -7.61780739E-02
   
-  ## 
+  ## Gauss-Jacobi method
   Gauss-Jacobi:input 1
   Gauss Seidel input 2
-./a.a
-  -7.61780739E-02uao
-  -7.61780739E-02uau
-  -7.61780739E-02ua
+./a.out 1
+10
+2
+
+## C-G method
+classical CG method
+
